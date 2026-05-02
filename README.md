@@ -1,86 +1,88 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eslam-ayman.eslam-ayman">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eslam-ayman.eslam-ayman"/>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Eslam+Ayman....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;I'm+Eslam+Ayman;Full+Stack+Developer;AI+Enthusiast&center=true&size=30">
 </h1>
 
-<h5 align="center">
-  <code><a href="#" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="#" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
-  <code><a href="#" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+<h3 align="center">💻 Software Engineering Student | Full Stack Developer | AI Enthusiast</h3>
 
-<br>
+---
 
+### 👨‍💻 About Me
+- 🎓 Student at **Faculty of Computers and Information – Assiut University**
+- 💡 Software Engineering Department
+- 🌐 Full Stack Developer
+- 🧠 Strong in **Algorithms & Data Structures**
+- 🤖 Experience in **AI & Machine Learning**
+- 🎬 Video Editing Skills
+- 🚀 Always learning & building projects
+
+---
+
+### 🌐 Connect With Me
 <p align="center">
-  Hi, I'm Eslam Ayman, Software Engineering Student & Full Stack Developer from Egypt 🇪🇬
-  <br><br>
-  🎓 I study at Faculty of Computers and Information, Assiut University
-  <br>
-  💻 I specialize in Full Stack Development
-  <br>
-  🧠 Strong foundation in Programming, Algorithms & Data Structures
-  <br>
-  🤖 Experience working with AI technologies
-  <br>
-  🎬 I also have experience in Video Editing
-  <br>
-  📚 I’m currently improving my skills and building real-world projects
-  <br>
-  💬 Ask me anything here: <a href="https://github.com/YOUR_USERNAME/issues">Here</a>
-  <br>
-  📫 Contact me: <a href="mailto:youremail@example.com">youremail@example.com</a>
+  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<hr>
+---
 
-<h2 align="center">🔥 Languages & Tools 🔥</h2>
-<br>
-
-<p align="center">
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="SQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-</p>
-
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+### 🛠️ Languages & Tools
 
 <p align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true" />
-  <img width=390 src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=react&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,js,html,css,mysql,git,github,vscode" />
 </p>
 
-<br>
+---
+
+### 🚀 More Tools (Icons CDN)
 
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
 
-<hr>
+---
 
-<h2 align="center">👨‍💻 Projects 👨‍💻</h2>
-<br>
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🔥 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=react&border_radius=10">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=tokyonight"/>
   </a>
-</div>
+</p>
 
-<hr>
+---
 
-<h4 align="center">
-  🔎 More projects coming soon...
-</h4>
+### ⚡ Fun Fact
+💡 "Code. Learn. Build. Repeat."
