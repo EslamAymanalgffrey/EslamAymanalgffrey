@@ -36,7 +36,21 @@
 
 ---
 
+---
 
+### 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://YOUR_PORTFOLIO_LINK">
+    <img src="https://via.placeholder.com/800x400.png?text=My+Portfolio" width="80%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Visit Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ### 📊 GitHub Stats
 
